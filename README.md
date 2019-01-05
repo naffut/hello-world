@@ -1,2 +1,2 @@
 # hello-world
-a short description
+This is my hello-world tutorial repo.
